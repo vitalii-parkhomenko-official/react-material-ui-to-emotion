@@ -18,6 +18,7 @@ The dependencies of emotion:
 import { ThemeProvider } from "./index";
 
 // ...
+
 const theme = light|dark;
 
 <ThemeProvider theme={theme}>
